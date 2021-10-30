@@ -1,0 +1,199 @@
+#: locale=ko
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 항공박물관 360 VR
+
+## Skin
+
+### Button
+Button_02C19B08_20BE_FC30_41B8_324047CDE112.label = 1층 - 항공역사
+Button_063F66F6_1FF5_B5D1_41A8_2E406E78EA51.label = 전시관람 예약
+Button_1158B35E_31EA_89DC_41C4_A556189352A8.label = 층별안내
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = HOME
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = HOME
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = 2층 - 항공산업
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = 항공역사
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = 예약
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = 3층 - 미래생활
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = 미래생활
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = 지도
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = 지도
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = 항공산업
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+Button_2CC9FB86_31EA_F92C_41BC_B2415AEB4B8E.label = 파노라마 목록
+
+### Multiline Text
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.557377049180327vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.56vmin;font-family:'Bebas Neue Bold';">____</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.262295081967212vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vmin;font-family:'Noto Sans CJK KR Bold';">국립항공박물관</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.857923497267759vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.86vmin;font-family:'Noto Sans CJK KR Medium';">서울 강서구 하늘길 177</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6393442622950818vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vmin;font-family:'Noto Sans CJK KR Bold';">개요</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Noto Sans CJK KR Medium';">국립항공박물관은 국내 최초로 선보인 항공 분야 국립박물관이다. 2020년 7월5일 개관했으며, 한인비행학교 개교 100주년에 맞춰 문을 열었다. 박물관은 항공역사, 항공산업, 항공생활, 야외전시, 기획전시로 나눠지며 국내, 해외의 항공역사를 자세하게 소개하고 있다. 박물관에는 지금껏 알지 못한 우리 항공사의 보석 같은 전시물과 실물 비행기 16대가 전시되어 있으며, 항공사별 항공기 등록 현황, 조종사, 승무원 현황, 각종 체험 등 우리 삶을 바꿀 미래 항공 기술 발전에 대해 살펴볼 수 있다.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6393442622950818vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vmin;font-family:'Noto Sans CJK KR Bold';">이용요금</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Noto Sans CJK KR Medium';">무료</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6393442622950818vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vmin;font-family:'Noto Sans CJK KR Bold';">이용시간</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Noto Sans CJK KR Medium';">화요일~일요일</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Noto Sans CJK KR Medium';">10:00~18:00 (입장마감 17:00)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Noto Sans CJK KR Medium';">※1월 1일, 설·추석 당일, 매주 월요일 (단, 월요일이 공휴일인 경우에는 월요일 당일 개관 후 다음날 평일이 휴관)</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6393442622950818vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vmin;font-family:'Noto Sans CJK KR Bold';">문의및안내</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;font-family:'Noto Sans CJK KR Medium';">02-6940-3198</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.944444444444444vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.94vmin;font-family:'Noto Sans CJK KR Bold';">국립항공박물관</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8888888888888875vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.89vmin;font-family:'Noto Sans CJK KR Medium';">서울 강서구 하늘길 177</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vmin;font-family:'Noto Sans CJK KR Bold';">개요</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7777777777777772vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Noto Sans CJK KR Medium';">국립항공박물관은 국내 최초로 선보인 항공 분야 국립박물관이다. 2020년 7월5일 개관했으며, 한인비행학교 개교 100주년에 맞춰 문을 열었다. 박물관은 항공역사, 항공산업, 항공생활, 야외전시, 기획전시로 나눠지며 국내, 해외의 항공역사를 자세하게 소개하고 있다. 박물관에는 지금껏 알지 못한 우리 항공사의 보석 같은 전시물과 실물 비행기 16대가 전시되어 있으며, 항공사별 항공기 등록 현황, 조종사, 승무원 현황, 각종 체험 등 우리 삶을 바꿀 미래 항공 기술 발전에 대해 살펴볼 수 있다.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vmin;font-family:'Noto Sans CJK KR Bold';">이용요금</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7777777777777772vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Noto Sans CJK KR Medium';">무료</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vmin;font-family:'Noto Sans CJK KR Bold';">이용시간</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7777777777777772vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Noto Sans CJK KR Medium';">화요일~일요일</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7777777777777772vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Noto Sans CJK KR Medium';">10:00~18:00 (입장마감 17:00)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7777777777777772vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Noto Sans CJK KR Medium';">※1월 1일, 설·추석 당일, 매주 월요일 (단, 월요일이 공휴일인 경우에는 월요일 당일 개관 후 다음날 평일이 휴관)</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.17vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vmin;font-family:'Noto Sans CJK KR Bold';">문의 및 안내</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7777777777777772vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Noto Sans CJK KR Medium';">02-6940-3198</SPAN></SPAN></DIV></div>
+
+### Label
+Label_002E6E87_3027_BB2C_41AD_AC09D1796EEB.text = 항공기술 발전과 미래생활
+Label_002F8E87_3027_BB2C_41C7_BAEE3C503CE5.text = Stage3. 오토-파일럿
+Label_01F22B7A_20BE_9CD0_4196_0BF5DD014C8C.text = Stage2. 가려진 자, 파헤치는 자
+Label_01F2AB7A_20BE_9CD0_4174_C2A5318CE5B8.text = 항공산업의 분야와 위상
+Label_094483EA_3AB2_8A0B_4190_1C82D3986D15.text = 항공기 개발과 과학
+Label_0945E3EA_3AB2_8A0B_41CA_69479061C67B.text = Stage3. 오토-파일럿
+Label_0C4B28A3_20D7_9C77_41BE_1F49636A5837.text = 5권역 진로체험 미션게임
+Label_0C4B98A3_20D7_9C77_41B5_5661C870A169.text = 국립항공박물관 - 항공산업편
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = 대한민국의 항공역사
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = Stage1. 숨겨진 물건
+Label_13620B84_2056_9C30_41A0_BD24C5235D73.text = 조종관제체험관
+Label_13624B84_2056_9C30_4180_238467A854C6.text = 보잉747 여객기 조종석
+Label_1CBD542E_302A_8F7C_41B9_9BA79A548823.text = 항공운송산업과 공항
+Label_1CBDB42E_302A_8F7C_41B8_7DA129EC22CD.text = Stage2. 가려진 자, 파헤치는 자
+
+## Media
+
+### Title
+panorama_005C55B0_29F7_B24F_41C0_146738F3D4E3.label = 2-2-17
+panorama_02B5B212_29ED_B673_41B4_271DAA37F031.label = 2-2-20
+panorama_02F006CE_29F7_5FD3_4174_87D3656D26B0.label = 2-2-18
+panorama_02F00B7E_29F6_D6B3_41C3_F24B99FF71E8.label = 2-2-19-8
+panorama_02F019FA_29F6_B5B3_41A7_4FA401303B30.label = 2-2-19-6
+panorama_02F02876_29F7_52B3_41C2_5DAE3A394E10.label = 2-2-19-4
+panorama_02F0B7CC_29F7_7DD7_41B4_8BEEDE9CC37D.label = 2-2-19-2
+panorama_04C1BD28_1FD5_F471_4181_6A11D1B29582.label = 2-1-1
+panorama_04F3781F_1FD5_7C4F_419F_D1D8B53399C6.label = 2-1-5-1
+panorama_04F38240_1FD5_AC30_419D_7F8EC6DCF50E.label = 2-1-5
+panorama_04F39326_1FD5_AC70_41B1_01BE0B96779A.label = 2-1-3
+panorama_04F3AAB2_1FD5_BC50_4192_50A412F22ADB.label = 2-1-4
+panorama_04F40EB7_1FD6_9450_4190_318BCF5B44C3.label = 2-1-14-1
+panorama_04F418E8_1FD6_FDF0_41B9_D751862A8E35.label = 2-1-16
+panorama_04F41CF9_1FD6_B5D0_41B9_7312C76CD9F1.label = 2-2-1
+panorama_04F42A41_1FD6_9C33_4189_D9A0031815AC.label = 2-1-14
+panorama_04F441CE_1FD6_EC31_41B4_12A40A7913A0.label = 2-1-15
+panorama_04F49092_1FD5_6C51_41BA_C3C61E93EF46.label = 2-1-7
+panorama_04F494C5_1FD6_B433_41BA_F84705A0B56F.label = 2-1-11
+panorama_04F4A4E3_1FD5_95F7_41BF_0B92BFAEAD84.label = 2-1-2
+panorama_04F4A672_1FD6_94D1_41AD_C27D892A10AD.label = 2-1-9
+panorama_04F4C318_1FD6_AC50_41B0_8CB1960FA348.label = 2-1-13
+panorama_04F4DBEE_1FD6_B3F1_41A0_4A5ACDB43174.label = 2-1-12
+panorama_04F5DB9F_1FD6_9C50_4148_B325E6C3582F.label = 2-2-3
+panorama_09F26DEE_20FA_B7F1_41B3_6BBE8C62D17A.label = 메인화면
+panorama_0EB3CF36_20EA_B451_41B0_CACC4C1D6E06.label = 조종실
+panorama_15740868_3AFE_8637_41C9_E7D1A4BF9D47.label = 3-2-12
+panorama_157519AC_3AFE_860F_41A4_4433BBFF1E0A.label = 3-2-14
+panorama_157531F0_3AFE_8616_419B_9867ADBCF688.label = 3-2-13
+panorama_15756911_3AFE_8616_41A0_CEE68DC9C35A.label = 3-2-12-1
+panorama_15759A03_3AFE_85F9_41CA_96EA35B3A1D0.label = 3-2-15
+panorama_16E2043E_010B_2BF7_4175_46E9AC42B251.label = 1-16
+panorama_16E22B45_010B_DD95_4168_17D507D125B0.label = 1-14-2
+panorama_17A0125F_0109_6FB5_4171_B8855A893B55.label = 1-10
+panorama_17A03A21_0109_3F8D_4176_F3F1F4DDCFE4.label = 1-13
+panorama_17A07B56_0109_7DB7_4156_E1326082E684.label = 1-6-8
+panorama_17A0D268_0109_2F9A_4175_D41E58D0DF85.label = 1-14
+panorama_17A11D47_0109_5596_4175_BC724AADF383.label = 1-6-6
+panorama_19334811_033B_7B8A_4174_3E399D63F0BE.label = 1-17
+panorama_1933F6D5_033B_54B5_412C_79AF02F4CF30.label = 1-19
+panorama_199366D8_3991_8A16_41C4_63A58B65AA16.label = 관제실
+panorama_1FB103EE_031B_2C97_417B_77E3A9AE825D.label = 1-23
+panorama_1FB6FC0D_031B_3B95_4180_7AA074B1EED2.label = 1-22-1
+panorama_20C93C40_03F9_5BBE_414B_F07BC4B47880.label = 1.5-1
+panorama_237B4B55_03F9_7C41_4172_304410AB60ED.label = 1.5-3
+panorama_23A30A7C_398E_9A0F_41BB_A3E07AEC46F6.label = 3-2-9
+panorama_23A30BBB_3991_9A09_41BF_26AC05C7ED27.label = 3-2-2
+panorama_23A33B1C_3991_9A0E_419E_603A0FA476BE.label = 3-2-6
+panorama_23A33B4A_3991_BA0B_41BA_AC586286098C.label = 3-2-4
+panorama_23A3430E_3991_8A0A_41CB_881334D9B374.label = 3-2-7
+panorama_23A343EC_3991_8A0F_41C7_0973C8CA3E88.label = 3-2-1
+panorama_23A3534C_3991_8A0E_41B4_791D681B56DE.label = 3-2-5
+panorama_23A3739B_3991_8A09_41C1_B9B072B55FE5.label = 3-2-3
+panorama_23A37A53_398E_9A19_41C9_885926106B41.label = 3-2-11
+panorama_23A3B2CF_398E_8A0A_4192_0F8C9DA9324C.label = 3-2-8
+panorama_23A3C25E_398E_8A0A_4193_256B5359D79B.label = 3-2-10
+panorama_37484E22_2AB5_5128_418D_D0B999BB907C.label = 2-2-14-2
+panorama_37485DF4_2AB5_7329_4190_4BC213E43A0F.label = 2-2-14-4
+panorama_37489624_2AB5_7129_41B9_1F29BA6E2441.label = 2-2-14-3
+panorama_3749B642_2AB5_5168_41B8_2D375DED3E02.label = 2-2-14-1
+panorama_3970554A_2E47_DE2A_41AE_7F3C051A105F.label = 3-1-12
+panorama_397088CD_2E46_562E_41A6_90CFA01A867D.label = 3-1-4
+panorama_39709AB9_2E46_6A69_41BF_7A7196CD7784.label = 3-1-8
+panorama_39709CC6_2E46_2E1B_41C2_0818BA2DA546.label = 3-1-11
+panorama_3970A028_2E46_3616_41C5_EA7D29FF6C5B.label = 3-1-3
+panorama_3970ADDD_2E47_EE29_41B1_FC4C7BA15A64.label = 3-1-13
+panorama_3970B421_2E46_3E19_41BF_F82D69B322F5.label = 3-1-12-1
+panorama_3970B9F5_2E46_69F9_41C0_1E5457B13FF9.label = 3-1-6
+panorama_3970C161_2E46_5619_4190_1BE56D41B8CB.label = 3-1-5
+panorama_3970C213_2E46_7A39_41BF_B27FF29E6B23.label = 3-1-7
+panorama_3970D34C_2E46_5A2E_41BB_866B8A934574.label = 3-1-9
+panorama_39775EFF_2E46_2BE9_41AE_4A72C076D665.label = 3-1-1
+panorama_3977F67D_2E46_DAEE_4199_5F8BFE892A63.label = 3-1-1-2
+panorama_726270D0_207F_6D23_4194_C8ABFC8282FE.label = 2-2-13-2
+panorama_72627AFD_207E_92DD_4191_05F14EE46821.label = 2-2-7
+panorama_7262B944_207D_9F23_41A6_409BEEBCEF73.label = 2-2-6
+panorama_7262D87B_207D_BDE5_4197_03FDD50713D4.label = 2-2-5
+panorama_72631E81_207E_9525_41B9_3A088FEEE9CF.label = 2-2-12
+panorama_72633BDB_207E_B325_4172_F973F89FDE6F.label = 2-2-8
+panorama_7263785A_207E_9D27_41B8_09BC3EADC2A2.label = 2-2-13-1
+panorama_7263A51C_207E_F75C_41AA_E17F436C523E.label = 2-2-10
+panorama_7263B5FA_207E_96E4_419C_CB2F2FEB19C8.label = 2-2-11
+panorama_7263BCB6_207E_956C_4193_DE5DB75D73BC.label = 2-2-9
+panorama_7263DFF2_207E_B2E4_41BA_6F3C5974A8CF.label = 2-2-13
+panorama_75DFB5BD_207D_975D_41A7_B39F664F49F0.label = 2-2-4
+panorama_95B8A4CE_AAA8_E3E5_41BB_630E7403B65E.label = 1-5
+panorama_A49F4DFE_9C77_8E66_41D9_74E41A7083C4.label = 비번
+panorama_F9CC56D6_F720_6D7D_41CF_D15A22B47C89.label = 1-6-4
+panorama_F9CD7FEE_F720_7B2D_41B2_64A84E9E00B0.label = 1-9
+panorama_FCA81B76_F6AC_8DF2_41EB_1D3491522B52.label = 1층 입구
+panorama_FFD821F1_F6AC_9D0F_41EB_F6FC48137201.label = 1-1
+panorama_FFD975DA_F6AC_853D_41E3_8A39E040B174.label = 1-6-2
+panorama_FFD97C9E_F6AC_8B32_41E1_5F250688310C.label = 1-7-1
+panorama_FFD9C343_F6AC_7D13_41D3_6783E1AACA5C.label = 1-7-2
+panorama_FFD9E0AC_F6A3_9B15_41E4_873779AFA792.label = 1-7-4
+panorama_FFDA0D17_F6AC_8532_41DB_B66FAA2AC1AF.label = 1-3
+panorama_FFDA2AF5_F6AC_8CF7_41DA_B1A5B94AB18B.label = 1-4
+panorama_FFDA3F6B_F6AC_8512_41A1_1F812988AF93.label = 1-2
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_02C5D13B_2EAE_B2B5_41AD_D2B50B1A19C6.toolTip = 홈으로 돌아가기
+HotspotPanoramaOverlayArea_19EDB06C_303D_87FC_41C6_274734D53938.toolTip = 에비스
+HotspotPanoramaOverlayArea_2EA06B42_3AF1_3BB6_41C2_2DDBC1EEAE3B.toolTip = 홈으로 돌아가기
+
+### URL
+overlay_1B231B65_3996_FA3E_41BD_D58479283DFB.url = //www.youtube.com/embed/8Xayxpn2YA8
+overlay_24E47FCA_39B2_9A0A_41C0_C6D3552D23CE.url = //www.youtube.com/embed/h8vPtZj96v4
+overlay_30FEECCB_2B93_5187_41BC_A6C735344EA6.url = //www.youtube.com/embed/vhLaQYxKHyc
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_03227B57_3BB2_9A18_41CC_BC4796892EBF.url = //www.youtube.com/embed/unh7YnFLFrY
+PopupWebFrameBehaviour_0762137E_2EB3_B6AF_41B1_37183D26F13C.url = //www.youtube.com/embed/8Xayxpn2YA8
+PopupWebFrameBehaviour_18D75018_3996_8616_41B9_D41A81CEFEB1.url = //www.youtube.com/embed/vhLaQYxKHyc
+PopupWebFrameBehaviour_18F919C9_3991_8676_4196_1EC0FA185231.url = //www.youtube.com/embed/8Xayxpn2YA8
+PopupWebFrameBehaviour_19191AF7_3992_9A19_4190_6ADD200A4C17.url = //www.youtube.com/embed/vhLaQYxKHyc
+PopupWebFrameBehaviour_19D997F6_3991_8A1B_419F_B6DE6E6A8DEB.url = //www.youtube.com/embed/h8vPtZj96v4
+PopupWebFrameBehaviour_1B85492F_3992_860A_41A3_213E93F3C465.url = //www.youtube.com/embed/unh7YnFLFrY
+PopupWebFrameBehaviour_6D75395A_23BA_9F26_41BA_C31FB86B21E4.url = //www.youtube.com/embed/unh7YnFLFrY
+
+## E-Learning
+
+### Score Name
+score1.label = Score 1
+
+### Question Screen
+quizQuestion_841AFCD5_9C76_8CDE_41D0_5BEE56C12E11.ok = OK
+
+### Report Screen
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.completion = Completed
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.downloadCSV = Download .csv
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.elapsedTime = Time
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.items = Items Found
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.questions = Questions
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.questionsCorrect = Correct
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.questionsIncorrect = Incorrect
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.repeat = Repeat
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.submitToLMS = Submit
+quizScore_841C9CD5_9C76_8CDE_41D3_D5F6DEF01A27.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_8419CCD5_9C76_8CDE_41D8_4AD526F857C2.repeat = Repeat
+quizTimeout_8419CCD5_9C76_8CDE_41D8_4AD526F857C2.score = View Score
+quizTimeout_8419CCD5_9C76_8CDE_41D8_4AD526F857C2.title = - TIMEOUT -

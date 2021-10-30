@@ -1,0 +1,95 @@
+#: locale=ko
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 내일그림 메타버스
+
+## Skin
+
+### Button
+Button_56A18040_74B0_AF9F_4183_0687199D6BE0.label = 현장직업체험
+Button_56AE094D_74B1_D1A1_41B2_516733BB3540.label = 직업인멘토링
+Button_56B32BAA_74B1_D0E3_41CF_078351BC555F.label = 슬기로운 진로체험
+Button_6AF37ED1_7493_D0A1_41DC_C9F32E1DECFD.label = 진로나침반
+Button_6FB38787_7470_70A2_41D6_3AC7A24049BA.label = 만족도 설문조사
+Button_6FB3A787_7470_70A2_41D2_3FFBEA82D383.label = 토요진로체험
+Button_6FB3B787_7470_70A2_41C6_8BA99648CFC4.label = 찾아가는 길
+Button_6FB3D787_7470_70A2_41D3_4465A0EB35DC.label = 톡·톡·톡
+Button_9422B944_8FE9_D9BE_41CE_8EE02989F324.label = 토요진로체험
+Button_9448EA55_8FE9_D85E_41C1_6E8C0521AEA0.label = 진로나침반
+
+### Multiline Text
+HTMLText_520BEF3B_74F0_71E0_41D0_E060771CFD12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.629629629629627vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.63vh;font-family:'Bebas Neue Bold';">_____</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444443vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.44vh;font-family:'Noto Sans CJK KR Bold';">토요진로체험 신청</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Noto Sans CJK KR Thin';">매주 토요일에 운영되는 진로체험으로 다양한 직업체험과 대학생 멘토의 멘토링으로 관련 대학과 학과 정보를 알 수 있는 기회를 주어 학습동기부여 및 진로·진학에 도움을 줄 수 있습니다.</SPAN></SPAN></DIV></div>
+HTMLText_526EDC4B_74F3_F7A0_4168_D0FFA23423F8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.629629629629627vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.63vh;font-family:'Bebas Neue Bold';">______</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444443vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.44vh;font-family:'Noto Sans CJK KR Bold';">진로나침반 신청</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.76vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Noto Sans CJK KR Thin';">학년에 맞는 진로 검사(한국가이던스)를 통해 개인의 진로발달단계에 따른 성장지향적인 진로지도를 돕기 위한 것으로</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Noto Sans CJK KR Thin';">자신의 진로발달과 관련하여 객관적인 결과를 제공함으로써 향후 진로의사결정 및 진로계획 수립에 도움을 줄 수 있습니다.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Noto Sans CJK KR Thin';">센터 홈페이지와 양천구 메타버스 매월 12명 중·고등학생 대상자를 모집하며, 매주 셋째주 목요일에 전문상담사와 검사결과를 토대로 진로심층상담을 합니다.</SPAN></SPAN></DIV></div>
+
+### Label
+Label_541A611A_74B1_D1A3_41D2_6630FD0321B9.text = 만족도 설문조사
+
+## Media
+
+### Title
+panorama_2BD002B3_3855_1CCC_4154_F7A3541144B8.label = 2
+panorama_82CF4E27_9729_6D05_41D4_BEA6E1E54A0B.label = 구청
+panorama_857EF118_9727_570B_41E1_E01001018335.label = 1
+panorama_8ACE9347_9237_10C7_41DA_3330889A1603.label = 12
+panorama_8ACED034_9237_3059_419F_47E4EEE6012F.label = 16
+panorama_8ACED523_9237_107F_41CC_7311BBCC7731.label = 15
+panorama_8ACEF9AD_9237_704B_41D6_2CB89B995B40.label = 14
+panorama_8ACF230E_9237_1049_41DD_D71EA7D15480.label = 9
+panorama_8ACF4850_9237_F0D9_41CB_50C74FEF39C1.label = 8
+panorama_8ACF6889_9237_304A_41D4_35108BF81374.label = 11
+panorama_8ACF6E27_9237_1047_41E2_29ED588E773B.label = 13
+panorama_8B832794_9237_3059_41CD_343CE5132187.label = 6
+panorama_8CE5E396_9229_CFAE_41C1_C36A33B4DDF0.label = 0
+panorama_93608180_8E39_48B7_41B6_DAAD82BDFF66.label = 5
+panorama_9367C66F_8E39_4849_41C0_79DB3B8DEE27.label = 4
+panorama_93C3CB26_8E39_39FB_41CF_6A968116322F.label = 3
+panorama_9C66C170_93AB_97B3_41CC_95EDA98169BC.label = 10
+panorama_C473762B_CA77_3CD1_41D7_E740CAD48CAA.label = 7
+
+## Hotspot
+
+### URL
+overlay_87AB995C_9727_B70B_41D9_DF3FF22F750B.url = //www.youtube.com/embed/ji2gJ1vD_z0
+overlay_87AC395C_9727_B70B_41C7_9BEE7C35B4E0.url = https://www.yangcheon.go.kr/jinrodream/jinrodream/main.do
+overlay_92FF3B2A_8E3F_79CB_4192_2007FAE79D7E.url = //www.youtube.com/embed/YalAWVqE3gg
+overlay_93C81674_8E3F_C85F_41C4_5EBE7CD7AC5F.url = //www.youtube.com/embed/v93vn7ofGnw
+overlay_93C83674_8E3F_C85F_41E0_4AE358B26B53.url = //www.youtube.com/embed/TWsuruZlYDg
+overlay_93C86674_8E3F_C85F_41DE_AE333B989414.url = //www.youtube.com/embed/XT2TnLWj6zI
+overlay_93CB66D6_8E3F_485A_41C6_8614D7CFECA7.url = //www.youtube.com/embed/jqoNgh7w808
+overlay_93D15C31_8E3F_5FD9_41D9_2D4DAC2BA21D.url = //www.youtube.com/embed/6F1D8x4mQJg
+overlay_93D1EC31_8E3F_5FD9_41BA_41FDEE38EC8D.url = //www.youtube.com/embed/jD8OTPa-ZbU
+overlay_9D012B09_93A6_8B55_41D3_2B765C64DDB6.url = //www.youtube.com/embed/3rst2bANl_4
+overlay_9D1F7B0B_93A6_8B55_41DC_942087A70FE1.url = //www.youtube.com/embed/HoSwlTXKRlQ
+overlay_9D8087CA_93A6_FAD4_41D4_617C5909084A.url = //www.youtube.com/embed/xwXIQdqRJW8
+overlay_9D8107C9_93A6_FAD4_41DE_A0170261EFCD.url = //www.youtube.com/embed/W_eUNC7Fe0M
+overlay_9D81B7C9_93A6_FAD4_41D1_45A1B4284C46.url = //www.youtube.com/embed/17ABYS19AIE
+overlay_9D89E7C4_93B9_7ADC_41BA_811B05F51F6E.url = //www.youtube.com/embed/1MBy7QYqm1I
+overlay_9D8BA627_93B9_9D5D_41D6_BD6EDEB07EE9.url = //www.youtube.com/embed/J1e7Ei6DVW4
+overlay_9D8BD99F_93B9_F76D_41C5_9D554F693197.url = //www.youtube.com/embed/yLjmA4Krta0
+overlay_9D8DB54A_93B9_BFD7_41C7_E630890275B3.url = //www.youtube.com/embed/JyrwDcJE_tA
+overlay_9D8EC9FB_93B9_96B5_41D8_4384F352C2E5.url = //www.youtube.com/embed/tHDO56aSgFc
+overlay_9D9682D0_93A6_9AF3_41BF_5D216DBC5B70.url = //www.youtube.com/embed/7kcHfIPrvL8
+overlay_9D9692CF_93A6_9AED_41BB_8EAED54C9803.url = //www.youtube.com/embed/JX7KuJrryh0
+overlay_9D9812CF_93A6_9AED_41B5_921669C2DC4E.url = //www.youtube.com/embed/BOcFONhy17U
+overlay_9DE5EA2E_93A6_95AF_41B6_F13AFB7B1E90.url = //www.youtube.com/embed/Se4e1lFKmlI
+overlay_9DF16427_93B9_9D5C_415A_49C0FEFE1AB6.url = //www.youtube.com/embed/SW313gT-p_Q
+overlay_9DF287C6_93B9_7ADC_41E0_C6B4A44961A2.url = //www.youtube.com/embed/WH5zGMFRIAU
+overlay_9DF3A9A1_93B9_F755_41D5_091F32A4108B.url = //www.youtube.com/embed/IEI9DCmz27k
+overlay_9DF3B9A1_93B9_F755_41D5_C5726AF36BA6.url = //www.youtube.com/embed/8XCj7BPY2bQ
+overlay_9DF5054C_93B9_BFD3_41DE_07F4A222F3AF.url = //www.youtube.com/embed/dX5CthnArj4
+overlay_9DF5654C_93B9_BFD3_41E1_03892AC925AC.url = //www.youtube.com/embed/xDyvNt2nAII
+overlay_9DF779FD_93B9_96AD_41CD_16F8865950F6.url = //www.youtube.com/embed/t1328iJZx4s
+overlay_9DF91428_93B9_9D54_41DB_337A3F640096.url = //www.youtube.com/embed/fA3DbAkHftI
+overlay_9DF92428_93B9_9D54_4184_73F93B1F7DF6.url = //www.youtube.com/embed/vvABkcJzUXU
+
+## Action
+
+### URL
+LinkBehaviour_79675A65_69E3_B903_41D2_906A507D3A86.source = https://hubs.mozilla.com/JydpqGQ/cheerful-subtle-exploration
+LinkBehaviour_7C7C6842_69ED_997E_41D7_85BFD6F89445.source = https://quizn.show/quz/play/tryPinForm.do?showSeq=184914
+LinkBehaviour_7C97230B_69ED_8F0E_41D6_076B8010FE47.source = https://quizn.show/quz/play/tryPinForm.do?showSeq=184913
+LinkBehaviour_7D576519_69ED_8B0A_41C3_0F810273551B.source = https://quizn.show/quz/play/tryPinForm.do?showSeq=184912
