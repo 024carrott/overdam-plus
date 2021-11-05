@@ -121,15 +121,10 @@ hr{
   flex-wrap: wrap;
   padding: 0 10%;
 }
-.btn-wrapper1{
+.btn-wrapper1, .btn-wrapper2, .btn-wrapper3, .btn-wrapper4{
     width: 500px;
 }
-.btn-wrapper2{
-  width: 500px;
-}
-.btn-wrapper3{
-  width: 500px;
-}
+
 .btn{
     font-size: 20px;
     background-color:#1f1a4d;
@@ -146,8 +141,8 @@ hr{
 }
 .btn:hover{
     color: #fff;
-    background-color: #ec7f03;
-    border: 1px solid #ec7f03;
+    background-color: cornflowerblue;
+    border: 1px solid cornflowerblue
 }
 .intro-img{
   display: block;
