@@ -1,0 +1,84 @@
+#: locale=ko
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 은평소방서
+
+## Media
+
+### Title
+panorama_C151F9FB_DBD2_B2ED_41E5_CDD07F504AE8.label = 체험관-대피
+panorama_C1545F12_DBD2_EF3C_41D2_A0198FB35DD0.label = 체험관-입구
+panorama_C1547487_DBD2_9125_41AA_795330F7C9EF.label = 체험관-소화
+panorama_C157C065_DBD2_91E5_41E8_B24A5FD978A1.label = 체험관-체력
+panorama_C157D992_DBD2_933F_41E3_49044DF0764E.label = 현장대응단
+panorama_C1C34F88_D182_B4CE_41D3_40B1834EEDA1.label = 본관 정문
+panorama_C4BCACE4_DA51_B11B_41EA_10E489712C75.label = 3층 재난관리과 복도
+panorama_C4BCF5FE_DA51_B2E4_41D0_42FE1001D09D.label = 3층 소방행정과 복도
+panorama_C4BD6EC5_DA51_9125_41D1_4BB98CB0BE48.label = 2층복도
+panorama_C5ACF2A1_DA52_911D_41DE_CB17E4617927.label = 본관-엘베
+panorama_C62C1313_DA52_973C_41E5_C7C0BD4E9A57.label = 종합민원실
+panorama_C62C3258_DA52_B12C_41E1_1F3C47154A4A.label = 소방행정과
+panorama_C62EA98E_DA52_9324_41DF_89E00042EF29.label = 상황실
+panorama_C62FAB6A_DA52_97EF_41DA_B77ED0B99A47.label = 체력단련실
+panorama_C62FCA9D_DA52_B124_41E4_D273919EDC54.label = 재난관리과
+panorama_D4B3AE18_DA56_7129_41E3_E7CE0931CF38.label = 차고-굴절차-앞
+panorama_D4B3E1BB_DA56_7368_41D3_B22CD5C9B85A.label = 차고-구조버스-앞
+panorama_D4B45458_DA51_9129_41E2_928B8AA6DBF9.label = 차고-빨구조버스-실내
+panorama_D4B4AA77_DA51_91E7_41E3_A8924313CCA8.label = 차고-사다리차-실내
+panorama_D4B4C6B4_DA51_B179_41EA_87EFCA00E064.label = 차고-소방장비
+panorama_D4CC080B_DA56_712F_41A6_2CA40B51D194.label = 차고-굴절차-실내
+panorama_D4CC2B9B_DA56_972F_41D8_8C83E0F72CFB.label = 차고-구조버스-실내
+panorama_D4CC6950_DA56_B339_41DD_3F221A826C59.label = 차고-구조공작차-실내
+panorama_D4CCAB63_DA56_9718_41D8_AAD6F2BF45B3.label = 차고-구급차-앞
+panorama_D4CCB190_DA56_B339_41D9_6EF1F368875E.label = 차고-구조공작차
+panorama_D4CCE553_DA56_933F_41AF_99CACAFB3A61.label = 차고-구급차-실내
+panorama_D5C9E6C9_DA56_F12B_41E8_71FD27625988.label = 차고-구급차
+panorama_E7368A6E_EA5F_1E23_41EB_8515E6123AB1.label = 체험관-지진
+panorama_E7E451D3_EA49_0A35_41D8_C2D6D955B525.label = 본관 입구
+panorama_FA0377AC_DA51_9F6B_41B1_7CF19284F4EC.label = 2층 상황실 복도
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_C507F5DC_DBB6_F324_41D6_970B338822D7.toolTip = 체험관 입구로 돌아가기
+HotspotPanoramaOverlayArea_C527E27F_DBB1_91E4_41E6_4B2C969390B8.toolTip = 체험관 입구로 돌아가기
+HotspotPanoramaOverlayArea_C6718582_DBB6_931F_4195_8C8838FBC9CA.toolTip = 체험관 입구로 돌아가기
+HotspotPanoramaOverlayArea_F1934A5F_DAB2_9124_41E9_531F3CF10FCF.toolTip = 2층으로 내려가기
+HotspotPanoramaOverlayArea_F2F34458_DAB2_912B_4196_0901EC26CEF3.toolTip = 1층으로 내려가기
+HotspotPanoramaOverlayArea_FB519F33_DBB2_AF7D_41C4_F93E2C7F1BC3.toolTip = 체험관 입구로 돌아가기
+HotspotPanoramaOverlayArea_FBE9E35D_DA52_F725_41A0_6FB613ACB5DD.toolTip = 2층으로 올라가기
+HotspotPanoramaOverlayArea_FFF86338_DAB3_976B_41E7_3199B031CC56.toolTip = 3층으로 올라가기
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_F178237A_E58D_556F_41D2_07F69B9DAC36.url = //www.youtube.com/embed/iDbxEy9JpMA
+PopupWebFrameBehaviour_F2F1B4F1_E79D_337D_41B5_5517B4024E9B.url = //www.youtube.com/embed/v9Lq9BfVn-M
+PopupWebFrameBehaviour_F40FAAA8_E5F5_77EB_41C0_4A398FB266EE.url = //www.youtube.com/embed/a5n328rbLOI
+PopupWebFrameBehaviour_F4295FB3_E7B5_EDFD_41E4_15B9E73AD627.url = //www.youtube.com/embed/4Q_Sq1yGRhY
+PopupWebFrameBehaviour_F4482BD5_E5FF_55A4_41E7_326D1824813D.url = //www.youtube.com/embed/a5n328rbLOI
+PopupWebFrameBehaviour_F47090BE_E5FB_53E4_41EC_52F58A560BCA.url = //www.youtube.com/embed/ZAOkhDDP-t8
+PopupWebFrameBehaviour_F4749B81_E5FB_359D_41E3_C9CD14FCF52A.url = //www.youtube.com/embed/iZJxlXnnnak
+PopupWebFrameBehaviour_F498A2FF_E5F7_D765_41D4_8562B80035A3.url = //www.youtube.com/embed/VRSnrnI6qGs
+PopupWebFrameBehaviour_F4DDEE7B_E5FD_2F6D_41D0_B849B82F9077.url = //www.youtube.com/embed/iZJxlXnnnak
+PopupWebFrameBehaviour_F50BDFF7_E7BD_6D65_41DF_8D392AE64C62.url = //www.youtube.com/embed/iZJxlXnnnak
+PopupWebFrameBehaviour_F510C96D_E795_5565_41A1_A4876238B6CA.url = //www.youtube.com/embed/6c1XZAiJcXA
+PopupWebFrameBehaviour_F550FFEA_E7F5_ED49_41E0_AEE8124AD33A.url = //www.youtube.com/embed/iDbxEy9JpMA
+PopupWebFrameBehaviour_F598AB3D_E78F_D6E5_41E1_C32F4E851534.url = //www.youtube.com/embed/qHq3PjYNZY8
+PopupWebFrameBehaviour_F5A88CF6_E78F_5367_41EC_0C17BD05BFE7.url = //www.youtube.com/embed/vdFx4CrwRQ8
+PopupWebFrameBehaviour_F698DF49_E5F5_2EAD_41EA_9BF911D1F152.url = //www.youtube.com/embed/VRSnrnI6qGs
+PopupWebFrameBehaviour_F70B9AA7_E57F_57E5_41DD_CF58B5A55999.url = //www.youtube.com/embed/kIcUaXgdDcE
+PopupWebFrameBehaviour_F721CF3D_E57F_2EE5_41EA_EE755B2537BC.url = //www.youtube.com/embed/kIcUaXgdDcE
+PopupWebFrameBehaviour_F7279706_E5FB_DEA7_41D4_1187B02AB012.url = //www.youtube.com/embed/qHq3PjYNZY8
+PopupWebFrameBehaviour_F7760E22_E58B_2E9C_41CE_4ED9D5516B8A.url = //www.youtube.com/embed/v9Lq9BfVn-M
+PopupWebFrameBehaviour_F7806D6A_E58D_2D6F_41D8_B84237269D3B.url = //www.youtube.com/embed/6c1XZAiJcXA
+PopupWebFrameBehaviour_F78B7D46_E58D_32A7_41D7_DE69F9702577.url = //www.youtube.com/embed/4Q_Sq1yGRhY
+PopupWebFrameBehaviour_F793EA29_E57F_56ED_41B9_49B2BEDC53D5.url = //www.youtube.com/embed/a5n328rbLOI
+PopupWebFrameBehaviour_F79671A2_E57D_759F_41CC_8FF59A6147C7.url = //www.youtube.com/embed/ZAOkhDDP-t8
+PopupWebFrameBehaviour_F7E330A4_E5FE_F39B_41C4_9D1C6A236901.url = //www.youtube.com/embed/vdFx4CrwRQ8
+PopupWebFrameBehaviour_F7F6CE26_E5FA_EEE7_41E1_4B9EA5346F9A.url = //www.youtube.com/embed/vdFx4CrwRQ8
+PopupWebFrameBehaviour_F7F8B480_E5FF_739C_41E2_15C9BE6A30D8.url = //www.youtube.com/embed/ZAOkhDDP-t8
